@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to MovieApp, a simple web application that allows users to search for movies and view basic information about them. This application was created as a beginner programming project to help practice the fundamentals of React and API integration.
+Welcome to MovieApp, a simple web application that allows users to search for movies and view basic information about them. 
 
 ## Features
 
@@ -27,14 +27,3 @@ To run this project locally, follow these steps:
 4. Obtain an API key from [OMDB API](https://www.omdbapi.com/) and replace the placeholder API key in the code with your own.
 5. Run `npm start` to start the development server.
 6. Open your web browser and go to `http://localhost:3000/` to view the application.
-
-## Practicing Goals
-
-This project was undertaken as a way to practice the following concepts:
-
-- Setting up a basic React application.
-- Using React hooks like `useState`.
-- Fetching data from an external API.
-- Displaying fetched data in the application.
-- Handling simple error cases.
-- Creating and reusing components in React.
